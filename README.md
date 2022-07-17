@@ -1,7 +1,3 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
-
-This is a [Next.js](https://nextjs.org/) simple application to fetch and example API and render some products on the screen.
-
 ## What is inside?
 
 This project uses lot of stuff as:

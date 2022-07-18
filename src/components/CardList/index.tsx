@@ -6,6 +6,7 @@ import { useProductStore } from 'store/useProductStore'
 
 export const CardList = () => {
   const products = useProductStore((state) => state.products)
+  console.log(products)
 
   async function handlePrefetchProduct(productId: string | undefined) {
     await queryClient.prefetchQuery(
@@ -30,7 +31,11 @@ export const CardList = () => {
     >
       {products &&
         products.map(({ _meta, id, name, type }) => (
-          <Box key={id} onMouseOver={() => handlePrefetchProduct(id)}>
+          <Box
+            role="product"
+            key={id}
+            onMouseOver={() => handlePrefetchProduct(id)}
+          >
             <Card _meta={_meta} type={type} name={name} />
           </Box>
         ))}

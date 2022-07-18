@@ -1,0 +1,423 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardList /> should render a list of products 1`] = `
+<div
+  class="css-miwkxx"
+>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit Com 5 Camisetas Básicas Esportivas Masculina Preta, Branca E Cinza
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        345.77496
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        779
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta masculina jordam 100% algodão
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        212.25824
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        246
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit Com 5 Camisetas Básicas Part. B Masculina Algodão T-shirt Tee
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        199.59839
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        445
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta Estampada Plus Size Masculina 1000075054 Malwee Wee
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        123.03333
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        158
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit 5 Camisetas Básicas Masculina 100% Poliéster Cores Sortidas
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        110.10536
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        131
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta Masculina Personalizada Stranger Things Série
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        105.30116
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        183
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<CardList /> should render first product title  1`] = `
+<div
+  class="css-miwkxx"
+>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit Com 5 Camisetas Básicas Esportivas Masculina Preta, Branca E Cinza
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        345.77496
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        779
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta masculina jordam 100% algodão
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        212.25824
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        246
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit Com 5 Camisetas Básicas Part. B Masculina Algodão T-shirt Tee
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        199.59839
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        445
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta Estampada Plus Size Masculina 1000075054 Malwee Wee
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        123.03333
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        158
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Kit 5 Camisetas Básicas Masculina 100% Poliéster Cores Sortidas
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        110.10536
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        131
+      </p>
+    </div>
+  </div>
+  <div
+    class="css-0"
+    role="product"
+  >
+    <div
+      class="css-njtlda"
+    >
+      <h2
+        class="chakra-heading css-1s3enhb"
+        role="title"
+      >
+        Camiseta Masculina Personalizada Stranger Things Série
+      </h2>
+      <p
+        class="chakra-text css-in3yi3"
+        role="description"
+      >
+        organic
+      </p>
+      <p
+        class="chakra-text css-20qhnm"
+      >
+        Store Ranking 
+        105.30116
+      </p>
+      <p
+        class="chakra-text css-0"
+        role="views"
+      >
+        Public views 
+        183
+      </p>
+    </div>
+  </div>
+</div>
+`;

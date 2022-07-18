@@ -1,18 +1,7 @@
 /* eslint-disable @typescript-eslint/no-empty-interface */
 import { useQuery } from 'react-query'
 import api from 'axios'
-
-interface Product {
-  _meta: Meta
-  id: string
-  name: string
-  type: string
-}
-
-interface Meta {
-  score: number
-  visitsClickCount: string
-}
+import { Product } from 'store/useProductStore'
 
 export interface GetProductResponse {
   products: Product[]

@@ -2,7 +2,7 @@ import { Divider, Flex } from '@chakra-ui/react'
 import { CardList } from 'components/CardList'
 import { SearchBar } from 'components/SearchBar'
 
-const Main = () => (
+export const Main = () => (
   <Flex
     w="100%"
     my="6"
@@ -19,5 +19,3 @@ const Main = () => (
     <CardList />
   </Flex>
 )
-
-export default Main

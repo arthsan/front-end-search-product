@@ -6,7 +6,6 @@ import { useProductStore } from 'store/useProductStore'
 
 export const CardList = () => {
   const products = useProductStore((state) => state.products)
-  console.log(products)
 
   async function handlePrefetchProduct(productId: string | undefined) {
     await queryClient.prefetchQuery(

@@ -16,7 +16,7 @@ beforeEach(() => {
 
 describe('<CardList />', () => {
   it('should render first product title ', () => {
-    const { container } = render(<CardList key={cardMock.id} />)
+    const { container } = render(<CardList />)
 
     const listElements = screen.getAllByRole('product')
     expect(listElements[0].firstChild).toHaveTextContent(cardList[0].name)
@@ -24,7 +24,7 @@ describe('<CardList />', () => {
   })
 
   it('should render a list of 6 products', () => {
-    const { container } = render(<CardList key={cardMock.id} />)
+    const { container } = render(<CardList />)
 
     const listElements = screen.getAllByRole('product')
     expect(listElements).toHaveLength(6)

@@ -21,7 +21,8 @@ export const SearchBar = () => {
   const addProduct = useProductStore((state) => state.addProduct)
   const { data, isLoading, refetch, error } = useSearchProducts(searchProduct)
 
-  async function handleClick() {
+  async function handleClick(e: React.MouseEvent<HTMLElement>) {
+    e.preventDefault()
     await refetch()
   }
 
@@ -56,7 +57,12 @@ export const SearchBar = () => {
             }
           />
         </InputGroup>
-        <Button bg="blue.500" isLoading={isLoading} onClick={handleClick}>
+        <Button
+          role="fetch"
+          bg="blue.500"
+          isLoading={isLoading}
+          onClick={(e: React.MouseEvent<HTMLElement>) => handleClick(e)}
+        >
           Search
         </Button>
       </Flex>

@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should be rendered input 1`] = `
+<div
+  class="css-ffobe8"
+>
+  <div
+    class="css-w4gwbl"
+  >
+    <div
+      class="css-1lekzkb"
+    >
+      <div
+        class="chakra-input__group css-4302v8"
+      >
+        <div
+          class="chakra-input__left-element css-kn13u6"
+        >
+          <svg
+            class="chakra-icon css-onkibi"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <input
+          class="chakra-input css-1q2zmi9"
+          name="item"
+          placeholder="Search for a product (camiseta)"
+        />
+      </div>
+      <button
+        class="chakra-button css-cpb45r"
+        role="fetch"
+        type="button"
+      >
+        Search
+      </button>
+    </div>
+  </div>
+  <hr
+    aria-orientation="horizontal"
+    class="chakra-divider css-iwna60"
+  />
+  <div
+    class="css-miwkxx"
+  />
+</div>
+`;
+
+exports[`<Main /> should be rendered search 1`] = `
+<div
+  class="css-ffobe8"
+>
+  <div
+    class="css-w4gwbl"
+  >
+    <div
+      class="css-1lekzkb"
+    >
+      <div
+        class="chakra-input__group css-4302v8"
+      >
+        <div
+          class="chakra-input__left-element css-kn13u6"
+        >
+          <svg
+            class="chakra-icon css-onkibi"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <input
+          class="chakra-input css-1q2zmi9"
+          name="item"
+          placeholder="Search for a product (camiseta)"
+        />
+      </div>
+      <button
+        class="chakra-button css-cpb45r"
+        role="fetch"
+        type="button"
+      >
+        Search
+      </button>
+    </div>
+  </div>
+  <hr
+    aria-orientation="horizontal"
+    class="chakra-divider css-iwna60"
+  />
+  <div
+    class="css-miwkxx"
+  />
+</div>
+`;
